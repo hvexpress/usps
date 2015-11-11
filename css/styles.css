@@ -88,7 +88,7 @@ main img {
 	left:15%;
 	padding: 10px;
 	border: 1px solid #ccc;
-	background-color: #ddd
+	background-color: #ddd;
 	transition: left 350ms ease-in-out;
 }
 
